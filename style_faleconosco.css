@@ -1,4 +1,8 @@
 body {
     background-color: antiquewhite;
+    width: 97%;
+    height: 100%;
+    right: auto;
+    left: auto;
     margin: auto;
 }
