@@ -1,9 +1,11 @@
 body {
     background-color: antiquewhite;
-    width: 97%;
+    width: 100%;
     height: 100%;
-    right: auto;
-    left: auto;
-    margin: auto;
     text-align: center;
+    margin: auto;
+}
+
+li {
+    list-style: none;
 }
